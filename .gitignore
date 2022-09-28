@@ -8,3 +8,5 @@ catboost_info/time_left.tsv
 output.png
 teste.dot
 .DS_Store
+Digits Classification.ipynb
+.gitignore
