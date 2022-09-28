@@ -11,3 +11,4 @@ teste.dot
 Digits Classification.ipynb
 .gitignore
 data/data_all.csv
+data/ds_salaries.csv
