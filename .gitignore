@@ -8,7 +8,6 @@ catboost_info/time_left.tsv
 output.png
 teste.dot
 .DS_Store
-Digits Classification.ipynb
 .gitignore
 data/data_all.csv
 data/ds_salaries.csv
