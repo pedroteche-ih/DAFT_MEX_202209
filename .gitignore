@@ -10,3 +10,4 @@ teste.dot
 .DS_Store
 Digits Classification.ipynb
 .gitignore
+data/data_all.csv
