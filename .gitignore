@@ -11,3 +11,5 @@ teste.dot
 .gitignore
 data/data_all.csv
 data/ds_salaries.csv
+data/202208-capitalbikeshare-tripdata.csv
+Clusteric Metrics.ipynb
